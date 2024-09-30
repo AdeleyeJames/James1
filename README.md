@@ -8,4 +8,6 @@ Stage " { Builds} (
 <br>
 Hello Student!!!
 <br>
-We getting there this time
+We getting there this time %time% %date%
+<br>
+ipconfig
